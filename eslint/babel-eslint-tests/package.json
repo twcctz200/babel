@@ -4,10 +4,10 @@
   "description": "Tests for babel/eslint-* packages",
   "private": true,
   "dependencies": {
-    "@babel/core": "workspace:^",
-    "@babel/eslint-parser": "workspace:^",
+    "@babel/core": "7.0.0",
+    "@babel/eslint-parser": "7.11.0",
     "@babel/preset-flow": "workspace:^",
-    "@babel/preset-react": "workspace:^",
+    "@babel/preset-react": "7.0.0",
     "dedent": "^1.5.3",
     "eslint": "^9.21.0",
     "eslint-plugin-import": "^2.31.0",
