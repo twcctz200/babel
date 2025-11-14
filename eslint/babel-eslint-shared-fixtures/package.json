@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "@babel/core": "workspace:^",
-    "@babel/eslint-parser": "workspace:^",
+    "@babel/eslint-parser": "7.11.0",
     "@babel/plugin-proposal-decorators": "workspace:^",
     "@babel/plugin-proposal-do-expressions": "workspace:^",
     "@babel/plugin-proposal-pipeline-operator": "workspace:^",
@@ -13,7 +13,7 @@
     "@babel/plugin-transform-class-properties": "workspace:^",
     "@babel/plugin-transform-explicit-resource-management": "workspace:^",
     "@babel/plugin-transform-private-methods": "workspace:^",
-    "@babel/preset-env": "workspace:^",
+    "@babel/preset-env": "7.0.0",
     "@babel/preset-flow": "workspace:^",
     "@babel/preset-react": "workspace:^",
     "eslint": "^9.21.0"
