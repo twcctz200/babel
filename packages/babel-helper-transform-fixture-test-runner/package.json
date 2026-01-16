@@ -16,14 +16,14 @@
   "main": "./lib/index.js",
   "dependencies": {
     "@babel/code-frame": "workspace:^",
-    "@babel/core": "workspace:^",
-    "@babel/helper-check-duplicate-nodes": "workspace:^",
+    "@babel/core": "7.0.0",
+    "@babel/helper-check-duplicate-nodes": "7.17.9",
     "@babel/helper-fixtures": "workspace:^",
     "@jridgewell/trace-mapping": "^0.3.28",
     "fs-readdir-recursive": "^1.1.0",
     "jest-diff": "^30.0.0",
     "lru-cache": "condition:BABEL_8_BREAKING ? ^7.14.1 : ^5.1.1",
-    "make-dir": "condition:BABEL_8_BREAKING ? : ^2.1.0"
+    "make-dir": "1.0.0"
   },
   "devDependencies": {
     "@types/fs-readdir-recursive": "^1.1.0"
