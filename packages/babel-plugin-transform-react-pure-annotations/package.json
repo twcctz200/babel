@@ -16,8 +16,8 @@
     "babel-plugin"
   ],
   "dependencies": {
-    "@babel/helper-annotate-as-pure": "workspace:^",
-    "@babel/helper-plugin-utils": "workspace:^"
+    "@babel/helper-annotate-as-pure": "7.0.0",
+    "@babel/helper-plugin-utils": "7.0.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0"
