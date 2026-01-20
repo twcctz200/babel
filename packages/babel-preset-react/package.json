@@ -21,7 +21,7 @@
     "@babel/plugin-transform-react-display-name": "workspace:^",
     "@babel/plugin-transform-react-jsx": "workspace:^",
     "@babel/plugin-transform-react-jsx-development": "workspace:^",
-    "@babel/plugin-transform-react-pure-annotations": "workspace:^"
+    "@babel/plugin-transform-react-pure-annotations": "7.10.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0"
