@@ -21,7 +21,7 @@
     "@babel/helper-create-class-features-plugin": "workspace:^",
     "@babel/helper-plugin-utils": "workspace:^",
     "@babel/helper-skip-transparent-expression-wrappers": "workspace:^",
-    "@babel/plugin-syntax-typescript": "workspace:^"
+    "@babel/plugin-syntax-typescript": "7.0.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0"
