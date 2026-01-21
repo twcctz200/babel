@@ -34,7 +34,7 @@
   "dependencies": {
     "@babel/helper-import-to-platform-api": "workspace:^",
     "@babel/helper-plugin-utils": "workspace:^",
-    "@babel/plugin-syntax-import-source": "workspace:^"
+    "@babel/plugin-syntax-import-source": "7.23.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.22.0"
