@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "@babel/helper-plugin-utils": "workspace:^",
-    "@babel/helper-replace-supers": "workspace:^"
+    "@babel/helper-replace-supers": "7.0.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0"
