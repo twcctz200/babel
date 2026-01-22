@@ -17,7 +17,7 @@
   "dependencies": {
     "@babel/helper-module-imports": "workspace:^",
     "@babel/helper-validator-identifier": "workspace:^",
-    "@babel/traverse": "workspace:^"
+    "@babel/traverse": "7.0.0"
   },
   "devDependencies": {
     "@babel/core": "workspace:^"
