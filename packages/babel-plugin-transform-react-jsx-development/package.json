@@ -16,7 +16,7 @@
     "babel-plugin"
   ],
   "dependencies": {
-    "@babel/plugin-transform-react-jsx": "workspace:^"
+    "@babel/plugin-transform-react-jsx": "7.0.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0"
