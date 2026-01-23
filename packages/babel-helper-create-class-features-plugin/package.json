@@ -20,8 +20,8 @@
   "dependencies": {
     "@babel/helper-annotate-as-pure": "workspace:^",
     "@babel/helper-member-expression-to-functions": "workspace:^",
-    "@babel/helper-optimise-call-expression": "workspace:^",
-    "@babel/helper-replace-supers": "workspace:^",
+    "@babel/helper-optimise-call-expression": "7.0.0",
+    "@babel/helper-replace-supers": "7.0.0",
     "@babel/helper-skip-transparent-expression-wrappers": "workspace:^",
     "@babel/traverse": "workspace:^",
     "semver": "condition:BABEL_8_BREAKING ? ^7.3.4 : ^6.3.1"
