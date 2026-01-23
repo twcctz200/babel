@@ -17,7 +17,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "@babel/code-frame": "workspace:^",
-    "@babel/generator": "workspace:^",
+    "@babel/generator": "7.0.0",
     "@babel/helper-globals": "workspace:^",
     "@babel/parser": "workspace:^",
     "@babel/template": "workspace:^",
