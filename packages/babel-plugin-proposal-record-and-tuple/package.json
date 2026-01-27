@@ -26,7 +26,7 @@
     "@babel/helper-module-imports": "workspace:^",
     "@babel/helper-plugin-utils": "workspace:^",
     "@babel/helper-validator-option": "workspace:^",
-    "@babel/plugin-syntax-record-and-tuple": "workspace:^"
+    "@babel/plugin-syntax-record-and-tuple": "7.9.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.12.0"
