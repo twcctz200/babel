@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "@babel/helper-plugin-utils": "workspace:^",
-    "@babel/traverse": "condition:BABEL_8_BREAKING ? : workspace:^"
+    "@babel/traverse": "7.0.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.13.0"
