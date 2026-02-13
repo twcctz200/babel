@@ -20,7 +20,7 @@
     "decorators"
   ],
   "dependencies": {
-    "@babel/helper-create-class-features-plugin": "workspace:^",
+    "@babel/helper-create-class-features-plugin": "7.2.0",
     "@babel/helper-plugin-utils": "workspace:^",
     "@babel/plugin-syntax-decorators": "workspace:^"
   },
