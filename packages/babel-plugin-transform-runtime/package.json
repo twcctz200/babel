@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@babel/helper-module-imports": "workspace:^",
-    "@babel/helper-plugin-utils": "workspace:^",
+    "@babel/helper-plugin-utils": "7.0.0",
     "babel-plugin-polyfill-corejs2": "condition:BABEL_8_BREAKING ? : ^0.4.14 (peer:@babel/core)",
     "babel-plugin-polyfill-corejs3": "condition:BABEL_8_BREAKING ? : ^0.13.0 (peer:@babel/core)",
     "babel-plugin-polyfill-regenerator": "condition:BABEL_8_BREAKING ? : ^0.6.5 (peer:@babel/core)",
