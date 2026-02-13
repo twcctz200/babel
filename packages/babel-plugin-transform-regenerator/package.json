@@ -11,7 +11,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "@babel/helper-plugin-utils": "workspace:^"
+    "@babel/helper-plugin-utils": "7.0.0"
   },
   "license": "MIT",
   "publishConfig": {
