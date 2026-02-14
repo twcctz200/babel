@@ -15,10 +15,10 @@
   "main": "./lib/index.js",
   "dependencies": {
     "@babel/helper-annotate-as-pure": "workspace:^",
-    "@babel/helper-compilation-targets": "workspace:^",
+    "@babel/helper-compilation-targets": "7.8.0",
     "@babel/helper-globals": "workspace:^",
     "@babel/helper-plugin-utils": "workspace:^",
-    "@babel/helper-replace-supers": "workspace:^",
+    "@babel/helper-replace-supers": "7.0.0",
     "@babel/traverse": "workspace:^"
   },
   "keywords": [
